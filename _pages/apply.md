@@ -29,7 +29,7 @@ post_date: 2017-03-06 15:12:07
 			border-spacing:0px;
 			border-width:0px;
 			}
-		input, textarea, select, .intro {
+		input, input[type="checkbox"], textarea, select, .intro {
 			margin-bottom: 4em;
 			margin-top: .5em;
 			}
