@@ -42,11 +42,12 @@ post_date: 2017-03-06 15:12:07
 			}
 input[type="checkbox"], label {
 font-size: .8em;
-color: red;
+color: green;
 }
 
 input[type="checkbox"] {
-padding: 1em 0 0 1em;
+padding-top: 1em;
+paying-left: 1em;
 }
 
 label{font-weight:bold;margin:0;padding:0;}
