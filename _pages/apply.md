@@ -93,7 +93,6 @@ input[type-submit]:active{color:#ec008a!important;}
 
 	<tr><td><span>Email<span style='color:#ec008a;'>*</span></span><p>This is the email address where we will send updates about your applications and membership status. We respect your inbox, and our emails are safe for work and home.</p><input type='text' style='width:100%; max-width: 700px;' maxlength='100' style='width:250px;' name='Email'></input></td></tr>
 
-	<tr><td><span>Email opt-out</span><p>We’d love to send you invitations to community events and mixers! If your application is approved, we’ll also send you (pretty safe for work) invites to our private events. However, if your inbox is already too full, please opt out below:</p><input type='checkbox' name='Email Opt Out' checked='false'><label style="display:inline;">Opt out</label></input></td></tr>
 
 	<tr><td><span>What is a phone number where we can reach you?</span><input type='text' maxlength='30' style='width:100%; max-width: 700px;' name='Mobile' required=""></input></td></tr>
 
