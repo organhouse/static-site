@@ -47,6 +47,7 @@ color: green;
 
 input[type="checkbox"] {
 margin-left: 1em;
+margin-top: 1em;
 }
 
 label{font-weight:bold;margin:0;padding:0;}
