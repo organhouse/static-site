@@ -51,7 +51,7 @@ input[type-submit]:active{color:#ec008a!important;}
 <form data-parsley-validate>
 	<table style='width:100%; max-width: 700px;color:black; margin:0;'>
 <p class="intro">Welcome! If you have been referred to Organ House by an existing member and are interested attending one of our private event, please fill out this application. Information is provided solely to the organizers. We take your privacy extremely seriously and would never share this information.</p>
-	<tr><td><span>Hi! What's your first name?<span style='color:#ec008a;'>*</span></span><p>Each individual applying must fill out their own application; joint applications will not be evaluated.</p><input type='text' maxlength='40' style='width:100%; max-width: 700px;' name='First Name' required=""></input></td></tr>
+	<tr><td><span>Hi! What's your first name?<span style='color:#ec008a;'>*</span></span><p>Each individual applying must fill out their own application; joint applications will not be evaluated.</p><input type='text' maxlength='40' style='width:100%; max-width: 700px;' name='First Name' required=''></input></td></tr>
 
 	<tr><td><span>What's your last name?<span style='color:#ec008a;'>*</span></span><p>Please provide your full legal name, not just a first name or pseudonym. We will not be able to evaluate your application without a full legal name.</p><input type='text' maxlength='80' style='width:100%; max-width: 700px;' name='Last Name' required=""></input></td></tr>
 
@@ -84,7 +84,7 @@ input[type-submit]:active{color:#ec008a!important;}
 
 	<tr><td><span>Email<span style='color:#ec008a;'>*</span></span><p>This is the email address where we will send updates about your applications and membership status. We respect your inbox, and our emails are safe for work and home.</p><input type='text' maxlength='100' style='width:250px;' name='Email'></input></td></tr>
 
-	<tr><td><span>Want updates?</span><p>We’ll add you to our monthly email about community events and mixers! If your application is approved, we’ll also send you (pretty safe for work) invites to our private events!</p><input type='checkbox' name='Email Opt Out' checked='true'></input></td></tr>
+	<tr><td><span>Want updates?</span><p>We’ll add you to our monthly email about community events and mixers! If your application is approved, we’ll also send you (pretty safe for work) invites to our private events!</p><input type='checkbox' name='Email Opt Out' checked='true' style='width:100% required=''></input></td></tr>
 
 	<tr><td><span>What is a phone number where we can reach you?</span><input type='text' maxlength='30' style='width:100%; max-width: 700px;' name='Mobile' required=""></input></td></tr>
 
