@@ -40,6 +40,10 @@ post_date: 2017-03-06 15:12:07
 			font-style: normal;
 			font-weight: normal;
 			}
+input[type="checkbox"], label {
+font-size: .8em;
+}
+
 label{font-weight:bold;margin:0;padding:0;}
 -->
 p {font-size:.8em;color:#757575;margin:0;}
