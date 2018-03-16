@@ -44,6 +44,10 @@ input[type="checkbox"], label {
 font-size: .8em;
 }
 
+input[type="checkbox"] {
+margin: 1em 0 0 1em;
+}
+
 label{font-weight:bold;margin:0;padding:0;}
 -->
 p {font-size:.8em;color:#757575;margin:0;}
