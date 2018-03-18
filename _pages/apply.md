@@ -92,7 +92,7 @@ input[type-submit]:active{color:#ec008a!important;}
 
 	<tr><td><span>Email<span style='color:#ec008a;'>*</span></span><p>This is the email address where we will send updates about your applications and membership status.</p><input type='text' style='width:100%; max-width: 700px;' maxlength='100' style='width:250px;' name='Email'></input></td></tr>
 
-<tr><td><span>May we email you about events?</span><p>We practice what we preach about consent, so we want to make sure it's okay to email you about future events. We respect your inbox, and our emails are safe for work and home.</p><input type='checkbox'checked='true' name='LEADCF106'></input></td></tr>
+<tr><td><span>May we email you about events?</span><p>We practice what we preach about consent, so we want to make sure it's okay to email you about future events. We respect your inbox, and our emails are safe for work and home.</p><input type='checkbox'checked='true' name='LEADCF106'><label style="display:inline;">I enthusiastically consent!</label></input></td></tr>
 
 
 	<tr><td><span>What is a phone number where we can reach you?</span><input type='text' maxlength='30' style='width:100%; max-width: 700px;' name='Mobile' required=""></input></td></tr>
