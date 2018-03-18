@@ -1,6 +1,6 @@
 ---
 ID: 287
-post_title: Request an invitation
+post_title: kate
 author: Kate
 post_excerpt: >
   Welcome! If you have been referred to
@@ -68,7 +68,7 @@ input[type-submit]:active{color:#ec008a!important;}
 
 	<tr><td><span>What's your age?<span style='color:#ec008a;'>*</span></span><p>Persons over 45 must be accompanied by a millennial. ;)</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF11' required=""></input></td></tr>
 
-	<tr><td><span>First Reference<span style='color:#ec008a;'>*</span></span><p>We only invite new members who are well known by the greater community and whom we know to be safe additions to our events. References are checked, and existing members should know their referrals well, trust referrals in an intimate setting, and be willing to stake their reputation on their referral’s behavior. Please provide a reference who is currently a member of The Organ House. Alternatively, if you found out about us through a Facebook group or at an event, please let us know which one:</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF2' required=""></input></td></tr>
+	<tr><td><span>First Reference<span style='color:#ec008a;'>*</span></span><p>We only invite new members who are well known by the greater community and whom we know to be safe additions to our events. References are checked, and existing members should know their referrals well, trust referrals in an intimate setting, be willing to stake their reputation on their referral’s behavior, and plan to attend their referrals first event with them.</p><p>Please provide a reference who is currently a member of The Organ House. Alternatively, if you found out about us through a Facebook group or at an event, please let us know which one:</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF2' required=""></input></td></tr>
 
 	<tr><td><span>Second Reference</span><p>Please provide a second reference who is currently a member of The Organ House. It's okay if you don't have a second reference, but we prioritize applications that do.</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF5'></input></td></tr>
 
@@ -91,8 +91,9 @@ input[type-submit]:active{color:#ec008a!important;}
 
 
 
-	<tr><td><span>Email<span style='color:#ec008a;'>*</span></span><p>This is the email address where we will send updates about your applications and membership status. We respect your inbox, and our emails are safe for work and home.</p><input type='text' style='width:100%; max-width: 700px;' maxlength='100' style='width:250px;' name='Email'></input></td></tr>
+	<tr><td><span>Email<span style='color:#ec008a;'>*</span></span><p>This is the email address where we will send updates about your applications and membership status. By applying, you acknowledge that we’ll be emailing you about future. We respect your inbox, and our emails are safe for work and home.</p><input type='text' style='width:100%; max-width: 700px;' maxlength='100' style='width:250px;' name='Email'></input></td></tr>
 
+	<tr><td><span>Email opt-out</span><p>We’d love to send you invitations to community events and mixers! If your application is approved, we’ll also send you (pretty safe for work) invites to our private events. However, if your inbox is already too full, please opt out below:</p><input type='checkbox' name='Email Opt Out' checked='false'><label style="display:inline;">Opt out</label></input></td></tr>
 
 	<tr><td><span>What is a phone number where we can reach you?</span><input type='text' maxlength='30' style='width:100%; max-width: 700px;' name='Mobile' required=""></input></td></tr>
 
