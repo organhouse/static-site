@@ -98,7 +98,7 @@ input[type-submit]:active{color:#ec008a!important;}
 	<tr><td><span>Are you eligible for our Industry Discount?</span><p>Do you help normalize and de-stigmatize sex on a day-to-day basis? We reward our friends on the front lines! Rape crisis counsellors, sex educators, etc. are eligible for our Industry Discount.</p><input type='checkbox' name='LEADCF102'><label style="display:inline;">Yes!</label></input></td></tr>
 
 	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
-		<input style='font-size:12px; font-weight: bold; color:white;' type='submit' value='Request an invitation!' />
+		<input style='font-size:12px; font-weight: bold; color:white;' type='submit' value='Apply' />
 	    </td>
 	</tr>
    </table>
