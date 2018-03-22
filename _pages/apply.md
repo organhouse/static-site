@@ -91,7 +91,7 @@ input[type-submit]:active{color:#ec008a!important;}
 
 	<tr><td><span>What is a phone number where we can reach you?</span><input type='text' maxlength='30' style='width:100%; max-width: 700px;' name='Mobile' required=""></input></td></tr>
 
-	<tr><td><span>Email<span style='color:#ec008a;'>*</span></span><p>This is the email address where we will send updates about your applications and membership status.</p><input type='text' style='width:100%; max-width: 700px;' maxlength='100' style='width:250px;' name='Email'></input></td></tr>
+	<tr><td><span>Email<span style='color:#ec008a;'>*</span></span><p>By submitting, you understand that we’ll be contacting this email address with updates about your application status.</p><input type='text' style='width:100%; max-width: 700px;' maxlength='100' style='width:250px;' name='Email'></input></td></tr>
 
 	<tr><td><span>Are you eligible for our Industry Discount?</span><p>Do you help normalize and de-stigmatize sex on a day-to-day basis? We reward our friends on the front lines! Rape crisis counsellors, sex educators, etc. are eligible for our Industry Discount.</p><input type='checkbox' name='LEADCF102'><label style="display:inline;">Yes!</label></input></td></tr>
 
