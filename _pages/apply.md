@@ -105,7 +105,6 @@ input[type-submit]:active{color:#ec008a!important;}
  	  var fldLangVal=new Array('Preferred Name','First Name','Last Name','Age','First Reference','I identify as…','Have you been to any parties like ours before?','What experience are you hoping to find?','With whom are you planning on attending?','Facebook profiles','Email');
 		var name='';
 		var email='';
-
  	  function checkMandatory() {
 		for(i=0;i<mndFileds.length;i++) {
 		  var fieldObj=document.forms['WebToLeads2802751000000140358'][mndFileds[i]];
