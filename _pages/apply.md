@@ -100,11 +100,9 @@ input[type-submit]:active{color:#ec008a!important;}
 	    </td>
 	</tr>
    </table>
-
-</form>
-	<script>
- 	  var mndFileds=new Array('LEADCF1','First Name','Last Name','LEADCF11','LEADCF2','LEADCF4','LEADCF7','LEADCF6','LEADCF9','LEADCF8','Phone');
- 	  var fldLangVal=new Array('Preferred Name','First Name','Last Name','Age','First Reference','I identify as…','Have you been to any parties like ours before?','What experience are you hoping to find?','With whom are you planning on attending?','Facebook profiles','Phone');
+<script>
+ 	  var mndFileds=new Array('LEADCF1','First Name','Last Name','LEADCF11','LEADCF2','LEADCF4','LEADCF7','LEADCF6','LEADCF9','LEADCF8','Email');
+ 	  var fldLangVal=new Array('Preferred Name','First Name','Last Name','Age','First Reference','I identify as…','Have you been to any parties like ours before?','What experience are you hoping to find?','With whom are you planning on attending?','Facebook profiles','Email');
 		var name='';
 		var email='';
 
