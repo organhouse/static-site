@@ -14,7 +14,7 @@ post_excerpt: >
   stand for.
 layout: post
 permalink: >
-  https://organhouse.org/articles/sneak-peek/
+  https://organhouse.org/play-parties/sneak-peek/
 published: true
 post_date: 2018-05-24 13:41:19
 ---
