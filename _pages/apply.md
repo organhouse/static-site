@@ -90,6 +90,9 @@ input[type-submit]:active{color:#ec008a!important;}
 
 	<tr><td><span>Email<span style='color:#ec008a;'>*</span></span><p>By submitting, you understand that we’ll be contacting this email address with updates about your application status. We respect your inbox, and these emails are always safe for work and home.</p><input type='text' style='width:100%; max-width: 700px;' maxlength='100' style='width:250px;' name='Email' required=""></input></td></tr>
 
+<tr><td><span>Do you want to be added to our mailing list&#x3f;</span><p>If we approve your application, we’ll be able to email you invitations to future private events!</p><input type='checkbox' name='LEADCF106' checked><label
+style="display:inline;">I enthusiastically consent!</label></input></td></tr>
+
 	<tr><td><span>Are you eligible for our Industry Discount?</span><p>Do you help normalize and de-stigmatize sex on a day-to-day basis? We reward our friends on the front lines! Rape crisis counsellors, sex educators, etc. are eligible for our Industry Discount.</p><input type='checkbox' name='LEADCF102'><label style="display:inline;">Yes!</label></input></td></tr>
 
 	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
