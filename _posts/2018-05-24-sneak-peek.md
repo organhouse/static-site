@@ -22,4 +22,7 @@ Our trusted friends at the <a href="http://dateablepodcast.com/" target="_blank"
 
 We’re really excited to have a way to give other folks a sneak-peak of how amazing our community is, what we do, and what we stand for. Enjoy!
 <p style="text-align: center;"><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/447426822&amp;color=ff5500&amp;show_artwork=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
-<a href="https://soundcloud.com/dateable/season-6-episode-14-so-i-went-to-a-sex-party" target="_blank" rel="noopener" style="font-size: .8em;">Listen on Soundcloud</a></p>
+<a style="font-size: .8em;" href="https://soundcloud.com/dateable/season-6-episode-14-so-i-went-to-a-sex-party" target="_blank" rel="noopener">Listen on Soundcloud</a></p>
+
+<h2>Love what we’re about?</h2>
+Our private events are for members and their referrals only, but you can meet a bunch of us at our public events! <a href="https://organhouse.us15.list-manage.com/subscribe?u=9e68cbbf31cf838f8ed673f91&amp;id=12defb0e9f">Get invites to public events in your inbox</a> or check out upcoming events on our <a href="https://www.facebook.com/TheOrganHouse/">Facebook page! </a>
