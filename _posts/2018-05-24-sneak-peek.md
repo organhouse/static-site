@@ -24,5 +24,12 @@ We’re really excited to have a way to give other folks a sneak-peak of how ama
 <p style="text-align: center;"><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/447426822&amp;color=ff5500&amp;show_artwork=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
 <a style="font-size: .8em;" href="https://soundcloud.com/dateable/season-6-episode-14-so-i-went-to-a-sex-party" target="_blank" rel="noopener">Listen on Soundcloud</a></p>
 
+<blockquote>
+<div>From the podcast:</div>
+<div>“We spoke to a couple who said, ‘well, we’re going through something in our relationship, and we find that when we come to this sort of community, people are undertanding of it and they can give us advice about what we’re going through.’</div>
+<div></div>
+<div>I thought that was really intersting because I think a lot of couples go through an evolution in their relationship where they’re kinda going outside of monogamy or non-traditional, and they don’t know who to talk to. And this is the perfect community to talk to those things about.</div>
+<div></div>
+<div>It’s funny because you wouldn’t think that this would be like a place that you can just chat and talk to people, but I think that was also something that we found — yeah, there were the people having sex, absolutely, but there  people that were just like, chilling near the cheese, and having conversations that felt more like a party. it wasn’t this all or nothing — it was tons of different middle ground.”</div></blockquote>
 <h2>Love what we’re about?</h2>
 Our private events are for members and their referrals only, but you can meet a bunch of us at our public events! <a href="https://organhouse.us15.list-manage.com/subscribe?u=9e68cbbf31cf838f8ed673f91&amp;id=12defb0e9f">Get invites to public events in your inbox</a> or check out upcoming events on our <a href="https://www.facebook.com/TheOrganHouse/">Facebook page! </a>
