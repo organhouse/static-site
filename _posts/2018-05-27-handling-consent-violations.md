@@ -10,7 +10,7 @@ post_excerpt: >
   that something is?
 layout: post
 permalink: >
-  https://organhouse.org/consent/blueprint-page/
+  https://organhouse.org/consent/handling-consent-violations/
 published: true
 post_date: 2018-05-27 09:47:23
 ---
