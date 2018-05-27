@@ -15,7 +15,7 @@ published: true
 post_date: 2018-05-27 09:47:23
 ---
 <h2>What is a consent violation?</h2>
-This question has captured the attention of our entire culture. Do we #<a href="http://bit.ly/2scLWbe">believewomen</a>? Do we trust, but verify? Do we trust in due process? Why is it that so many people are being accused of sexual misconduct, and so few things being done about it?
+This question has captured the attention of our entire culture. Do we #<a href="http://bit.ly/2scLWbe">believewomen</a>? Do we trust, but verify? Do we trust in due process? Why is it that so many people are being accused of sexual misconduct, and so few things are being done about it?
 
 There's a sad reason that this question remains unanswered. Our society simply does not understand consent. We know <a href="https://ind.pn/2IRcZ29">it’s not clothing</a>. Is it a verbal “yes” before sex? But how many? And is it before sex, or before touching, or before something else? Can it be a nonverbal cue? Can I give it if I’m drunk? Does it require a contract? Is it a form you sign before surgery at a hospital? Can it be assigned to another person, like a parent making medical decisions for a child deemed too young to make their own? <a href="http://bit.ly/2GSAW7y">Is it possible for a mentally impaired person to consent</a>? Or for a <a href="http://bit.ly/2sbKC8C">detainee to consent</a> to someone in a position of power?  For someone under the age of 18 to consent at all?
 
