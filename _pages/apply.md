@@ -61,7 +61,7 @@ input[type-submit]:active{color:#ec008a!important;}
 
 	<tr><td><span>What's your last name?<span style='color:#ec008a;'>*</span></span><p>Please provide your full legal name, not just a first name or pseudonym. We will not be able to evaluate your application without a full legal name.</p><input type='text' maxlength='80' style='width:100%; max-width: 700px;' name='Last Name' required=""></input></td></tr>
 
-	<tr><td><span>Do you have a preferred name?<span style='color:#ec008a;'>*</span></span><p>A nickname you prefer we use when addressing you?</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF1' required=""></input></td></tr>
+	<tr><td><span>Do you have a preferred name?<span style='color:#ec008a;'>*</span></span><p>What shall we call you?</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF1' required=""></input></td></tr>
 
 	<tr><td><span>What's your age?<span style='color:#ec008a;'>*</span></span><p>Persons over 45 must be accompanied by a millennial. ;)</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF11' required=""></input></td></tr>
 
