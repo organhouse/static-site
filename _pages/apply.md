@@ -86,7 +86,7 @@ input[type-submit]:active{color:#ec008a!important;}
 
 	<tr><td><span>Please provide links to you & your partners’ Facebook profiles<span style='color:#ec008a;'>*</span></span><p>We ask for Facebook because this keeps people honest and accountable for their actions. If you don't have a Facebook profile at all, please provide another social media link.</p><textarea maxlength='2000' style='width:100%; max-width: 700px;' name='LEADCF8'style='width:250px;' required=""></textarea></td></tr>
 
-	<tr><td><span>What is a phone number where we can reach you?</span><input type='text' maxlength='30' style='width:100%; max-width: 700px;' name='Mobile'></input></td></tr>
+	<tr><td><span>What is a phone number where we can reach you?</span><input type='text' maxlength='30' style='width:100%; max-width: 700px;' name='Mobile' required=""></input></td></tr>
 
 	<tr><td><span>Email<span style='color:#ec008a;'>*</span></span><p>By submitting, you understand that we’ll be contacting this email address with updates about your application status. We respect your inbox, and these emails are always safe for work and home.</p><input type='text' style='width:100%; max-width: 700px;' maxlength='100' style='width:250px;' name='Email' required=""></input></td></tr>
 
