@@ -142,7 +142,7 @@ Do you help normalize and de-stigmatize sex on a day-to-day basis? We reward our
 </tbody>
 </table>
 <script>
- 	  var mndFileds=new Array('LEADCF1','First Name','Last Name','LEADCF11','LEADCF2','LEADCF4','LEADCF7','LEADCF6','LEADCF9','LEADCF8','Mobile','Email');
+ 	  var mndFileds=new Array('LEADCF1','First Name','Last Name','LEADCF11','LEADCF2','LEADCF4','LEADCF7','LEADCF6','LEADCF9','LEADCF8','Email');
  	  var fldLangVal=new Array('Preferred Name','First Name','Last Name','Age','First Reference','I identify as…','Have you been to any parties like ours before?','What experience are you hoping to find?','With whom are you planning on attending?','Facebook profiles','Email');
 		var name='';
 		var email='';
