@@ -63,7 +63,7 @@ input[type-submit]:active{color:#ec008a!important;}
 
 	<tr><td><span>Do you have a preferred name?<span style='color:#ec008a;'>*</span></span><p>What shall we call you?</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF1' required=""></input></td></tr>
 
-	<tr><td><span>What's your age?<span style='color:#ec008a;'>*</span></span><p>Persons over 45 must be accompanied by a millennial. ;) <a href="https://organhouse.org/faq/">Click to learn more about this policy.)</a></p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF11' required=""></input></td></tr>
+	<tr><td><span>What's your age?<span style='color:#ec008a;'>*</span></span><p>Persons over 45 must be accompanied by a millennial. ;) <a href="https://organhouse.org/faq/">(Learn more about this policy here.)</a></p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF11' required=""></input></td></tr>
 
 	<tr><td><span>First Reference<span style='color:#ec008a;'>*</span></span><p>Please provide a reference who is currently a member of The Organ House. We only invite new members who are well known by the greater community and whom we know to be safe additions to our events. References are checked, and existing members should know their referrals well, trust referrals in an intimate setting, be willing to stake their reputation on their referral’s behavior, and plan to attend their referrals first event with them.</p><p>Alternatively, if you found out about us through a Facebook group or at an event, please let us know which one:</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF2' required=""></input></td></tr>
 
@@ -96,6 +96,7 @@ style="display:inline;">I enthusiastically consent!</label></input></td></tr>
 	<tr><td><span>Are you eligible for our Industry Discount?</span><p>Do you help normalize and de-stigmatize sex on a day-to-day basis? We reward our friends on the front lines! Rape crisis counsellors, sex educators, etc. are eligible for our Industry Discount.</p><input type='checkbox' name='LEADCF102'><label style="display:inline;">Yes!</label></input></td></tr>
 
 	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
+<p>By submitting this application, you affirm that you have read and understood our consent culture and member responsibilities. You further understand that if you ignore these policies, you will be permanently removed from Organ House, and we may share your name with other event admins for the safety and well being of the greater community.</p>
 		<input style='font-size:12px; font-weight: bold; color:white;' type='submit' value='Apply' />
 	    </td>
 	</tr>
