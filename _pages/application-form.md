@@ -18,9 +18,20 @@ post_date: 2017-03-06 15:12:07
    - Code lines with comments ���Do not remove this code���  are required for the form to work properly, make sure that you do not remove these lines of code. 
    - The Mandatory check script can modified as to suit your business needs. 
    - It is important that you test the modified form before going live.-->
-<div id='crmWebToEntityForm' style='width:100%; max-width: 700px; margin:auto;'>
+<div id='crmWebToEntityForm'>
    <META HTTP-EQUIV ='content-type' CONTENT='text/html;charset=UTF-8'>
-   <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads2802751000000140358 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory()' accept-charset='UTF-8'><!-- Do not remove this code. --><input type='text' style='display:none;' name='xnQsjsdp' value='a620cee1ae0435057d8165ce6a51abc76b5d2ff36a0af5ddaa8a081d70f969fd'/><input type='hidden' name='zc_gad' id='zc_gad' value=''/><input type='text' style='display:none;' name='xmIwtLD' value='4bc31f950afc7bccd6c7656476ce2dde5a5379f1b06fc6973b43e1bda10e56c5'/><input type='text' style='display:none;'  name='actionType' value='TGVhZHM='/><input type='text' style='display:none;' name='returnURL' value='https://organhouse.org/thankyou'><!-- Do not remove this code. --><style>
+   <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads2802751000000140358 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory()' accept-charset='UTF-8'>
+
+	 <!-- Do not remove this code. -->
+	<input type='text' style='display:none;' name='xnQsjsdp' value='a620cee1ae0435057d8165ce6a51abc76b5d2ff36a0af5ddaa8a081d70f969fd'/>
+	<input type='hidden' name='zc_gad' id='zc_gad' value=''/>
+	<input type='text' style='display:none;' name='xmIwtLD' value='4bc31f950afc7bccd6c7656476ce2dde5a5379f1b06fc6973b43e1bda10e56c5'/>
+	<input type='text' style='display:none;'  name='actionType' value='TGVhZHM='/>
+
+	<input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;organhouse.org&#x2f;thankyou' /> 
+	 <!-- Do not remove this code. -->
+
+<style>
 		tr , td { 
 			padding:6px;
 			border-spacing:0px;
@@ -55,6 +66,7 @@ input[type-submit]:active{color:#ec008a!important;}
 </style>
 
 <form data-parsley-validate>
+
 	<table style='width:100%; max-width: 700px;color:black; margin:0; text-align:left;'>
 	<tr><td><span>Hi! What's your first name?<span style='color:#ec008a;'>*</span></span><p>Each individual applying must fill out their own application; joint applications will not be evaluated.</p><input type='text' maxlength='40' style='width:100%; max-width: 700px;' name='First Name' required=''></input></td></tr>
 
@@ -142,5 +154,5 @@ style="display:inline;">I enthusiastically consent!</label></input></td></tr>
 	     }
 	   
 </script>
-	</form>
-</div>
+
+</form></div>
