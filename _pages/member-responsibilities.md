@@ -1,6 +1,6 @@
 ---
 ID: 1121
-post_title: Member responsibilities
+post_title: 'Application step 4: Member responsibilities'
 author: Kate
 post_excerpt: ""
 layout: page
