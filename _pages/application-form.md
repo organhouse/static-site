@@ -27,10 +27,8 @@ post_date: 2017-03-06 15:12:07
 	<input type='hidden' name='zc_gad' id='zc_gad' value=''/>
 	<input type='text' style='display:none;' name='xmIwtLD' value='4bc31f950afc7bccd6c7656476ce2dde5a5379f1b06fc6973b43e1bda10e56c5'/>
 	<input type='text' style='display:none;'  name='actionType' value='TGVhZHM='/>
-
 	<input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;organhouse.org&#x2f;thankyou' /> 
 	 <!-- Do not remove this code. -->
-
 <style>
 		tr , td { 
 			padding:6px;
@@ -64,9 +62,7 @@ input[type=checkbox]{transform: scale(1.5);margin-right:1em;}
 input[type=submit]:hover{color:#ec008a!important;}
 input[type-submit]:active{color:#ec008a!important;}
 </style>
-
 <form data-parsley-validate>
-
 	<table style='width:100%; max-width: 700px;color:black; margin:0; text-align:left;'>
 	<tr><td><span>Hi! What's your first name?<span style='color:#ec008a;'>*</span></span><p>Each individual applying must fill out their own application; joint applications will not be evaluated.</p><input type='text' maxlength='40' style='width:100%; max-width: 700px;' name='First Name' required=''></input></td></tr>
 
