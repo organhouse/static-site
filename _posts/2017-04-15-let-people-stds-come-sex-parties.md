@@ -1,0 +1,36 @@
+---
+ID: 596
+post_title: >
+  Why we let people with STDs come to our
+  sex parties.
+author: Kate
+post_excerpt: Because it would be dangerous not to.
+layout: post
+permalink: >
+  https://organhouse.org/play-parties/let-people-stds-come-sex-parties/
+published: true
+post_date: 2017-04-15 22:03:10
+---
+<span style="font-size: .8em;">* <strong>STD vs. STI.</strong> STD stands for “sexually transmitted disease.” STI stands for “sexually transmitted infection.” The acronym STI has become a lot more popular lately, in an effort to address stigma. But there is a medical difference between the word “infection” and the word “disease,” so “STD” and “STI” are not technically interchangeable. You can <a href="https://www.stdcheck.com/blog/std-vs-sti-whats-the-difference/" target="_blank">read more about that here</a>. If you have to pick one, “STI” is generally more accurate, but everyone understands what I’m talking about when I say “STD.” “STI” doesn’t have the same brand power. Addressing stigma should not come at the cost of providing accurate and understandable health information, which is why I continue to use the term “STD” when I write, for now.</span>
+
+<em>“I’m not going to ask you to give me any paperwork that proves you‘re ‘STD* free’ or shows when you were last tested. I’m not asking anyone else to do that, either. We are on the honor system.”</em>
+
+This is usually when the questions start pouring in. <em>“Wait, <strong>what?</strong> You let people with STDs come to the sex party?”</em> Yes, I do. Because it would be dangerous not to.
+
+The first thing to understand is that there is no such thing as an “STD free” event. I’ve heard of exactly one party that advertised that “all guests are STD free.” That event was limited to porn industry professionals, who and are some of the most responsible people on the planet when it comes to sexually transmissible diseases. They are typically tested every 2 weeks. But there is no amount of responsibility or oversight that can ensure a 0% risk of STD transmission.
+
+Plus, what’s an STD anyway? You can catch all kinds of infections at a play party — strep, the common cold, the flu, etc. These aren’t thought to be “STDs,” even though you can easily transmit these through sexual contact, sometimes for weeks after your own symptoms have subsided. And some STDs take 3-6 months to create antibodies that appear in test results. People can be unknowingly positive and infect their partners, even if they are symptom-free, responsible and get tested often. Saying that an event or person is “STD free” misrepresents the amount of risk that is always present with new sexual partners.
+
+More importantly, If you tell people they cannot attend if they have a positive status, you are perversely incentivizing them to lie about their status. It’s easy to send last month’s paperwork with a negative status, instead of a more recent positive status. It’s also easy to photoshop documents. And with a recent diagnosis, there can be a period of denial. Sometimes people struggle to accept a positive status and do stupid things. The point is, no piece of paper can ever prove that someone is “STD free.”
+
+Finally, I believe that it is wrong to kick people out of their community just because they have a positive status. Yes, if you have an active, curable infection or a bad cold, you should probably skip this round, stay home, and get better. But some STDs are here to stay. The best events cater to community, and are filled with friend and lovers. Ours is not a club with a bunch of strangers that you’re never going to see again. For many people, play parties are one of few places where they can truly be themselves, embracing their polyamorous, queer or kinky lifestyles. Here, they can enjoy an evening with lovers openly, in an accepting environment. You can’t always take both your girlfriend and your wife out to the same Thanksgiving dinner, but you can take your triad to our events to celebrate openly. What play parties provide is more than a setting for sex, it’s a feeling of security and acceptance. You shouldn’t rip that away from people just because they contracted something communicable.
+
+We trust our community to take care of themselves and each other. We maintain a carefully curated list of <a href="http://bit.ly/2e24qWd" target="_blank">poly-friendly and sex-worker friendly testing locations</a> in the SF Bay Area. (You are welcome to bookmark and share.) This also includes a list of STDs we recommend being tested for. I recommend that people active in a play scene get tested at least every 3 months. Ideally, we’d all be tested after every new partner, but I know that’s not sustainable. Being tested every 3 months is sustainable. I send everyone a little update every 3 months, reminding them to set up their testing appointment. I also recommend they create a calendar reminder for the next one.
+
+If you ever do test positive, check out <a href="http://bit.ly/2mVDTKJ" target="_blank">this excellent resource</a> about how to inform partners if you have an STD or STI. There are even scripts for having that conversation <a href="http://bit.ly/2dapo5F" target="_blank">in person</a>, over the <a href="http://bit.ly/2oLbTOu" target="_blank">phone</a>, <a href="http://bit.ly/2oCgfXw" target="_blank">email</a>, or <a href="http://bit.ly/29T5CYl" target="_blank">text</a>. There’s also a way to <a href="http://bit.ly/2mVDTKJ" target="_blank">inform partners anonymously</a> if you have an abusive partner or are afraid of retaliation. Bottom line is, there’s zero excuse for not informing your partners, and there are resources to help you do it.
+
+<em>“But what happens if someone lies? Like, that could still happen, even though you’re making it a safe place to be honest.”</em> I wish I had a bullet-proof answer for this. If we find out that someone has intentionally failed to disclose, they are permanently banned from our events. But yes, people can lie, and there’s not a lot that can be done about that. Even when you’ve cultivated a culture where honesty is invited and everyone is welcome, some people are just shitty people that lie. It is never rude to ask someone about their status. You are always free to broach that topic; don’t let anyone make you think you’re being rude to ask.
+
+The most impactful thing I can do to protect my community is to cultivate an environment of acceptance and honestly.  STDs are something we talk about openly. I also make sure that everyone is aware of our policy ahead of the events. That’s one of the main reasons why I make everyone attend a phone orientation ahead of their first event. I discuss our STD policy and provide access to our resources on that call.
+
+If you are hosting your own play events or any kind of even where STD transmission is a concern, I encourage you to borrow from this article or our <a href="http://bit.ly/2polzwd" target="_blank">codified consent culture</a> to put together an STD policy for your own event. Your policy may be very different, and you should do what works for you. But whatever your policy is, I think it’s good practice to have it codified and available for guests ahead of time, so that they can best understand the risk they are taking and plan accordingly.
