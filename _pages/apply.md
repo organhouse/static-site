@@ -97,7 +97,7 @@ style="display:inline;">I enthusiastically consent!</label></input></td></tr>
 
 	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
 		<input style='font-size:12px; font-weight: bold; color:white;' type='submit' value='Apply' />
-<p style="text-align:left; padding-top: 20px;">By submitting this application, you affirm that you have read and understood our consent culture and member responsibilities. You further understand that if you ignore these policies, you will be permanently removed from Organ House, and we may share your name with other event admins for the safety and well-being of the greater community.</p>
+<p style="text-align:left; padding-top: 20px;">By submitting this application, you affirm that you have read and understood our consent culture and member responsibilities. You further understand that if you violate these policies, you will be permanently removed from Organ House, and we may share your name with other event admins for the safety and well-being of the greater community.</p>
 	    </td>
 	</tr>
    </table>
