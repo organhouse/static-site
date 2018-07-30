@@ -9,7 +9,7 @@ post_excerpt: >
   private event, please fill out this
   application.
 layout: page
-permalink: https://organhouse.org/apply/
+permalink: https://organhouse.org/application-form/
 published: true
 post_date: 2017-03-06 15:12:07
 ---
