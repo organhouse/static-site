@@ -55,8 +55,7 @@ input[type-submit]:active{color:#ec008a!important;}
 </style>
 
 <form data-parsley-validate>
-	<table style='width:100%; max-width: 700px;color:black; margin:0;'>
-<p class="intro">Welcome! If you have been referred to Organ House by an existing member and are interested attending one of our private event, please fill out this application. Information is provided solely to the organizers. We take your privacy extremely seriously and would never share this information.</p>
+	<table style='width:100%; max-width: 700px;color:black; margin:0; text-align:left;'>
 	<tr><td><span>Hi! What's your first name?<span style='color:#ec008a;'>*</span></span><p>Each individual applying must fill out their own application; joint applications will not be evaluated.</p><input type='text' maxlength='40' style='width:100%; max-width: 700px;' name='First Name' required=''></input></td></tr>
 
 	<tr><td><span>What's your last name?<span style='color:#ec008a;'>*</span></span><p>Please provide your full legal name, not just a first name or pseudonym. We will not be able to evaluate your application without a full legal name.</p><input type='text' maxlength='80' style='width:100%; max-width: 700px;' name='Last Name' required=""></input></td></tr>
