@@ -1,6 +1,6 @@
 ---
 ID: 287
-post_title: 'Application step 4: Apply'
+post_title: 'Application step 5: Apply'
 author: Kate
 post_excerpt: >
   Welcome! If you have been referred to
@@ -55,17 +55,16 @@ input[type-submit]:active{color:#ec008a!important;}
 </style>
 
 <form data-parsley-validate>
-	<table style='width:100%; max-width: 700px;color:black; margin:0;'>
-<p class="intro">Welcome! If you have been referred to Organ House by an existing member and are interested attending one of our private event, please fill out this application. Information is provided solely to the organizers. We take your privacy extremely seriously and would never share this information.</p>
+	<table style='width:100%; max-width: 700px;color:black; margin:0; text-align:left;'>
 	<tr><td><span>Hi! What's your first name?<span style='color:#ec008a;'>*</span></span><p>Each individual applying must fill out their own application; joint applications will not be evaluated.</p><input type='text' maxlength='40' style='width:100%; max-width: 700px;' name='First Name' required=''></input></td></tr>
 
 	<tr><td><span>What's your last name?<span style='color:#ec008a;'>*</span></span><p>Please provide your full legal name, not just a first name or pseudonym. We will not be able to evaluate your application without a full legal name.</p><input type='text' maxlength='80' style='width:100%; max-width: 700px;' name='Last Name' required=""></input></td></tr>
 
 	<tr><td><span>Do you have a preferred name?<span style='color:#ec008a;'>*</span></span><p>What shall we call you?</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF1' required=""></input></td></tr>
 
-	<tr><td><span>What's your age?<span style='color:#ec008a;'>*</span></span><p>Persons over 45 must be accompanied by a millennial. ;)</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF11' required=""></input></td></tr>
+	<tr><td><span>What's your age?<span style='color:#ec008a;'>*</span></span><p>Persons over 45 must be accompanied by a millennial. ;) <a href="https://organhouse.org/faq/">(Learn more about this policy here.)</a></p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF11' required=""></input></td></tr>
 
-	<tr><td><span>First Reference<span style='color:#ec008a;'>*</span></span><p>We only invite new members who are well known by the greater community and whom we know to be safe additions to our events. References are checked, and existing members should know their referrals well, trust referrals in an intimate setting, be willing to stake their reputation on their referral’s behavior, and plan to attend their referrals first event with them.</p><p>Please provide a reference who is currently a member of The Organ House. Alternatively, if you found out about us through a Facebook group or at an event, please let us know which one:</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF2' required=""></input></td></tr>
+	<tr><td><span>First Reference<span style='color:#ec008a;'>*</span></span><p>Please provide a reference who is currently a member of The Organ House. Alternatively, if you found out about us through a Facebook group or at an event, please let us know which one:</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF2' required=""></input></td></tr>
 
 	<tr><td><span>Second Reference</span><p>Please provide a second reference who is currently a member of The Organ House. It's okay if you don't have a second reference, but we prioritize applications that do.</p><input type='text' maxlength='255' style='width:100%; max-width: 700px;' name='LEADCF5'></input></td></tr>
 
@@ -97,6 +96,7 @@ style="display:inline;">I enthusiastically consent!</label></input></td></tr>
 
 	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
 		<input style='font-size:12px; font-weight: bold; color:white;' type='submit' value='Apply' />
+<p style="text-align:left; padding-top: 20px;">By submitting this application, you affirm that you have read and understood our consent culture and member responsibilities. You further understand that if you violate these policies, you will be permanently removed from Organ House, and we may share your name with other event admins for the safety and well-being of the greater community.</p>
 	    </td>
 	</tr>
    </table>
