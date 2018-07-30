@@ -95,9 +95,8 @@ style="display:inline;">I enthusiastically consent!</label></input></td></tr>
 
 	<tr><td><span>Are you eligible for our Industry Discount?</span><p>Do you help normalize and de-stigmatize sex on a day-to-day basis? We reward our friends on the front lines! Rape crisis counsellors, sex educators, etc. are eligible for our Industry Discount.</p><input type='checkbox' name='LEADCF102'><label style="display:inline;">Yes!</label></input></td></tr>
 
-	<tr>
-<p>By submitting this application, you affirm that you have read and understood our consent culture and member responsibilities. You further understand that if you ignore these policies, you will be permanently removed from Organ House, and we may share your name with other event admins for the safety and well being of the greater community.</p>
-<td colspan='2' style='text-align:center; padding-top:15px;'>
+	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
+<p style="text-align:left;">By submitting this application, you affirm that you have read and understood our consent culture and member responsibilities. You further understand that if you ignore these policies, you will be permanently removed from Organ House, and we may share your name with other event admins for the safety and well being of the greater community.</p>
 		<input style='font-size:12px; font-weight: bold; color:white;' type='submit' value='Apply' />
 	    </td>
 	</tr>
