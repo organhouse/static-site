@@ -7,9 +7,8 @@ author: Kate
 post_excerpt: >
   Everything is going to be okay. Here is
   a great resource for how to structure
-  that conversation, including scripts to
-  follow. You can also inform partners
-  anonymously.
+  that conversation. You can also inform
+  partners anonymously.
 layout: post
 permalink: >
   https://organhouse.org/consent/std-exposure-inform/
@@ -30,14 +29,14 @@ You should also be aware of whether you’re diagnosed with a disease (STD) or a
 
 Here is some informative medical information about the 8 most common STDs and STIs:
 <ul style="margin-left: 10%;">
- 	<li>Syphilis — curable!</li>
- 	<li>Gonorrhoea — <a href="http://bit.ly/2Orn6ko">curable for now</a></li>
- 	<li>Chlamydia — curable!</li>
- 	<li>Trichomoniasis — curable!</li>
- 	<li>hepatitis B — not curable, but vaccine exists!</li>
- 	<li>herpes simplex virus (HSV or herpes) — not curable yet</li>
- 	<li>HIV — not curable yet</li>
- 	<li>human papillomavirus (HPV) — technically not curable yet, but vaccine exists and <a href="http://bit.ly/2P4WB1o">90% of infections clear up naturally within 2 years.</a></li>
+ 	<li><a href="https://www.cdc.gov/std/syphilis/stdfact-syphilis.htm">Syphilis</a> — curable!</li>
+ 	<li><a href="https://www.cdc.gov/std/gonorrhea/stdfact-gonorrhea.htm">Gonorrhoea</a> — <a href="http://bit.ly/2Orn6ko">curable for now</a></li>
+ 	<li><a href="https://www.cdc.gov/std/chlamydia/stdfact-chlamydia.htm">Chlamydia</a> — curable!</li>
+ 	<li><a href="https://www.cdc.gov/std/trichomonas/stdfact-trichomoniasis.htm">Trichomoniasis</a> — curable!</li>
+ 	<li><a href="https://www.cdc.gov/std/treatment/2010/vaccine.htm">Hepatitis B</a> — not curable, but vaccine exists!</li>
+ 	<li><a href="https://www.cdc.gov/std/herpes/stdfact-herpes.htm">Herpes (HSV)</a> — not curable yet</li>
+ 	<li><a href="https://www.cdc.gov/hiv/basics/index.html">HIV</a> — not curable yet</li>
+ 	<li><a href="https://www.cdc.gov/std/hpv/stdfact-hpv.htm">Human Papillomavirus (HPV)</a> — technically not curable yet, but vaccine exists and <a href="http://bit.ly/2P4WB1o">90% of infections clear up naturally within 2 years.</a></li>
 </ul>
 <h2>Step 2. Figure out who you need to inform.</h2>
 <h3>Write down a list of people who may need to be informed.</h3>
