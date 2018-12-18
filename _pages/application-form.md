@@ -210,10 +210,10 @@ post_date: 2017-03-06 15:12:07
 
 						<tr>
 							<td><span>Are you eligible for our Industry Discount?</span>
-								<p>Do you help normalize and de-stigmatize sex on a day-to-day basis? We reward our friends on the front lines! Rape crisis counsellors, sex educators, etc. are eligible for our Industry Discount.</p><input type='checkbox' name='LEADCF102'>
-								<label
-								        style="display:inline;">Yes!</label>
-									</input>
+								<p>Do you help normalize and de-stigmatize sex on a day-to-day basis? We reward our friends on the front lines! Rape crisis counsellors, sex educators, etc. are eligible for our Industry Discount.</p>
+								<input type='checkbox' name='LEADCF102'>
+									<label style="display:inline;">Yes!
+								</label></input>
 							</td>
 						</tr>
 
