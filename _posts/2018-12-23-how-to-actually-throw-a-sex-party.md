@@ -48,7 +48,7 @@ Consent is not as simple as “do unto others what you would have them do unto y
 &nbsp;
 
 <h2>Cleaning up an Orgy</h2>
-You, and anyone else cleaning up, are now responsible for potentially hazardous bio-waste. Wear gloves while cleaning. And buy those people a damn pizza. Use Clorox Wipes to clean surfaces. And I mean, anything and everything someone could have touched. Light switches. Faucet handles. Stair railings. The spatula, etc.
+You, and anyone else cleaning up, are now responsible for potentially hazardous bio-waste. Wear gloves while cleaning. And buy those people a damn pizza. Use Clorox wipes to clean surfaces. And I mean, anything and everything someone could have touched. Light switches. Faucet handles. Stair railings. The spatula, etc.
 
 In my experience you”ll go through about 1 container of Clorox bleach wipes per every 50 guests. Are you concerned about the environment and want to use more eco-friendly cleaners? Then don’t throw a fucking sex party, because science is a safety requirement for cleaning up bodily fluids.
 
