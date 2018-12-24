@@ -16,7 +16,7 @@ permalink: >
 published: true
 post_date: 2018-12-23 15:39:59
 ---
-For anyone else totally disappointed in <a href="https://www.vice.com/en_ca/article/43e7kq/how-to-have-a-sex-party?fbclid=IwAR1O0bsQ1_LJAI9svCL6QhvyRXV2cDueUoXqxvdeh34GDIj02fDEUueExKQ">Vice’s recent article “How to have a sex party”</a> that completely did <strong>not</strong> tell anyone how to actually have a sex party, this is for you.
+If you were intrigued by <a href="https://www.vice.com/en_ca/article/43e7kq/how-to-have-a-sex-party?fbclid=IwAR1O0bsQ1_LJAI9svCL6QhvyRXV2cDueUoXqxvdeh34GDIj02fDEUueExKQ">Vice’s recent article “How to have a sex party”</a> but still left wondering how to <em><strong>actually</strong></em> throw a sex party, don’t worry — we’ve got you covered!
 
 Ask yourself the important questions first…
 
