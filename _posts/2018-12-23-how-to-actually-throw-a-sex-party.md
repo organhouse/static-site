@@ -2,14 +2,7 @@
 ID: 1258
 post_title: 'How to *actually* throw a sex party'
 author: Kate
-post_excerpt: >
-  Ask yourself the important questions
-  first… How many fucks do you have to
-  give? Fucks are the most practical unit
-  for measuring a space’s capacity for a
-  sex party. Fucks are not a universal
-  unit of volume, which is why some people
-  can give more than others.
+post_excerpt: 'If you were intrigued by Vice’s recent article “How to have a sex party” but still left wondering how to *actually* throw a sex party, don’t worry — we’ve got you covered!'
 layout: post
 permalink: >
   https://organhouse.org/play-parties/how-to-actually-throw-a-sex-party/
