@@ -254,7 +254,7 @@ post_date: 2018-12-28 00:57:31
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Try to be polite when saying no; be polite when hearing now. Don’t ask somebody multiple times. They’ve said no. They only have to say it once. And don’t ask someone for an explanation. Nobody owes an explanation for why they said “no.”</p>
+<p>Try to be polite when saying no; be polite when hearing no. Don’t ask somebody multiple times. They’ve said no. They only have to say it once. And don’t ask someone for an explanation. Nobody owes an explanation for why they said “no.”</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer -->
