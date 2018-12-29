@@ -5,7 +5,7 @@ author: Kate
 post_excerpt: 'In the midst of #metoo, how did a sex party pioneer a culture of consent that made headlines?'
 layout: post
 permalink: >
-  https://organhouse.org/play-parties/sex-at-the-intersection-of-fail-fast-and-metoo-consent-culture-in-silicon-valley/
+  https://organhouse.org/consent/sex-at-the-intersection-of-fail-fast-and-metoo-consent-culture-in-silicon-valley/
 published: true
 post_date: 2018-12-28 00:57:31
 ---
