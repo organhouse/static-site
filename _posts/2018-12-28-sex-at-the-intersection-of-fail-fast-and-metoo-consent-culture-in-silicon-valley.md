@@ -29,6 +29,10 @@ post_date: 2018-12-28 00:57:31
 <p>Hi everyone, my name is Kate. I run a grassroots community organization called Organ House. Our mission is to normalize non-monogamy and sexual exploration. I think you’re all old enough to know what I mean by sexual exploration, but I’ll briefly talk about what the term non-monogamy means to us.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
 <!-- wp:heading -->
 <h2><strong>What is non monogamy:</strong></h2>
 <!-- /wp:heading -->
@@ -186,7 +190,7 @@ post_date: 2018-12-28 00:57:31
 <!-- /wp:spacer -->
 
 <!-- wp:list -->
-<ul><li>Is consent a verbal “yes” before sex?</li><li>Is one “yes” enough? </li><li>Does consent happen before sex?</li><li>Does consent happen before kissing?</li><li>Can consent be nonverbal?</li><li>Can someone revoke their consent if they change their mind?</li><li>Can someone consent if they are drunk?</li><li>But can someone consent if they’ve only had a little alcohol?</li><li>Does consent require a written agreement?</li><li>But should you sign a form before you have surgery at a hospital to show you have given informed consent for the surgery?</li><li>Is it possible for someone under the age of 18 to consent at all?</li><li>Can consent be assigned to another person — like, can say that you consent to something?</li><li>But can a parent consent to medical decisions for their child?</li></ul>
+<ul><li>Is consent a verbal “yes” before sex?</li><li>Is one “yes” enough? </li><li>Does consent happen before sex?</li><li>Does consent happen before kissing?</li><li>Can consent be nonverbal?</li><li>Can someone revoke their consent if they change their mind?</li><li>Can someone consent if they are drunk?</li><li>But can someone consent if they’ve only had a little alcohol?</li><li>Does consent require a written agreement?</li><li>But should you sign a form before you have surgery at a hospital to show you have given informed consent for the surgery?</li><li>Is it possible for someone under the age of 18 to consent at all?</li><li>Can consent be assigned to another person —&nbsp;like, can say that you consent to something?</li><li>But can a parent consent to medical decisions for their child?</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:spacer -->
@@ -230,7 +234,7 @@ post_date: 2018-12-28 00:57:31
 <!-- /wp:spacer -->
 
 <!-- wp:heading -->
-<h2><strong>Don’t be afraid to say “no, thank you.”</strong></h2>
+<h2><strong>Don’t&nbsp;be&nbsp;afraid&nbsp;to&nbsp;say&nbsp;“no,&nbsp;thank&nbsp;you.”</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -274,7 +278,7 @@ post_date: 2018-12-28 00:57:31
 <!-- /wp:spacer -->
 
 <!-- wp:heading -->
-<h2><strong>Always ask before touching anybody, anywhere.</strong></h2>
+<h2><strong>Always&nbsp;ask&nbsp;before&nbsp;touching&nbsp;anybody,&nbsp;anywhere.</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -374,7 +378,7 @@ post_date: 2018-12-28 00:57:31
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Now, we’re working on replicating and scaling this to help other communities,  institutions, and cities solve this problem. <a href="mailto:kate@organhouse.org">Please reach out</a> if this is something your organization or community needs.<br></p>
+<p>Now, we’re working on replicating and scaling this to help other communities, &nbsp;institutions, and cities solve this problem. <a href="mailto:kate@organhouse.org">Please reach out</a> if this is something your organization or community needs.<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
