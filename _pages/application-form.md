@@ -159,10 +159,10 @@ post_date: 2017-03-06 15:12:07
 						</tr>
 
 
-<!-- In this space, we expect our members to uphold a culture of mutually enthusiastic, affirmative, verbal* consent. That’s a lot of words. What do you believe that should look like?" -->
+<!-- In this space, we expect our members to uphold a culture of mutually enthusiastic, affirmative consent. That’s a lot of words. What do you believe that should look like?" -->
 
 						<tr>
-							<td><span >In this space, we expect our members to uphold a culture of mutually enthusiastic, affirmative, verbal consent. That’s a lot of words. What do you believe that should look like?<span style='color:#ec008a;'>*</span></span>
+							<td><span >In this space, we expect our members to uphold a culture of mutually enthusiastic, affirmative consent. That’s a lot of words. What do you believe that should look like?<span style='color:#ec008a;'>*</span></span>
 								<textarea maxlength='2000' style='width:100%; max-width: 700px;' name='LEADCF22'style='width:250px;'></textarea>
 							</td>
 						</tr>
