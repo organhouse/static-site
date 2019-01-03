@@ -39,7 +39,7 @@ I held my voice steady. I wanted to give positive feedback that telling me now w
 
 We treat disclosures with compassion and respect in our non-monogamous community. No one is going to slap you across the face, or run screaming in the opposite direction if you disclose that you have an STD or STI. We explicitly discuss our <a href="https://organhouse.org/play-parties/let-people-stds-come-sex-parties/">STD &amp; STI policy</a> with new members, and we reiterate that policy at every single event.
 
-I’m aware of many people in the community who are positive, for a variety of STDs and STIs. I also know that they have been able to responsibly disclose that information to potential partners at sex events and still get laid. In an environment like ours, (and really, in any environment,) there is zero excuse for knowing your status or failing to disclose your status.**
+I’m aware of many people in the community who are positive, for a variety of STDs and STIs. I also know that they have been able to responsibly disclose that information to potential partners at sex events and still get laid. In an environment like ours, (and really, in any environment,) there is zero excuse for not knowing your status or failing to disclose your status.**
 
 
 <h2>The Dark Arts of testing for Herpes</h2>
