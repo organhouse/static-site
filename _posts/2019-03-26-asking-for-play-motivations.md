@@ -14,7 +14,7 @@ post_excerpt: >
   resonate with you.
 layout: post
 permalink: >
-  https://organhouse.org/consent/asking-for-play-motivations-communication-negotiation/
+  https://organhouse.org/consent/asking-for-play-motivations/
 published: true
 post_date: 2019-03-26 16:13:04
 ---
