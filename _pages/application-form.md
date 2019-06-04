@@ -3,11 +3,9 @@ ID: 287
 post_title: 'Application step 5: Apply'
 author: Kate
 post_excerpt: >
-  Welcome! If you have been referred to
-  Organ House by an existing member and
-  are interested attending one of our
-  private event, please fill out this
-  application.
+  Welcome! If you are interested in
+  joining our community, please fill out
+  this application.
 layout: page
 permalink: https://organhouse.org/application-form/
 published: true
