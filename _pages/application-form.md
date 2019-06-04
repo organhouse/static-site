@@ -11,10 +11,6 @@ permalink: https://organhouse.org/application-form/
 published: true
 post_date: 2017-03-06 15:12:07
 ---
-<doctype HTML>
-
-	<body>
-
 		<!-- Note :
    - You can modify the font style and form style to suit your website.
    - Code lines with comments ���Do not remove this code���  are required for the form to work properly, make sure that you do not remove these lines of code.
@@ -274,7 +270,3 @@ post_date: 2017-03-06 15:12:07
 
 				</form>
 		</div>
-
-	</body>
-
-	</HTML>
