@@ -78,7 +78,7 @@ post_date: 2017-03-06 15:12:07
 				</style>
 				<form data-parsley-validate>
 					<table style='width:100%; max-width: 700px;color:black; margin:0; text-align:left;'>
-						<tr style="margin-top:1em;">
+						<tr style="margin-top:2em;">
 							<td><span>Hi! What's your first name?<span style='color:#ec008a;'>*</span></span>
 								<p>Each individual applying must fill out their own application; joint applications will not be evaluated.</p><input type='text' maxlength='40' style='width:100%; max-width: 700px;' name='First Name' required=''></input>
 							</td>
