@@ -71,3 +71,13 @@ post_date: 2019-06-17 20:11:02
 <span style="font-weight: 400;">“Hi! We're two 30 somethings who have been exploring non-monogamy together for over a decade. We've always loved meeting new people and hearing their amazing and fascinating stories. Over the years we have found we aren't alone... People seem to love hearing about other people's sex lives. Who knew?” Visit them at </span><a href="https://www.normalizingnonmonogamy.com/"><span style="font-weight: 400;">https://www.normalizingnonmonogamy.com/</span></a><span style="font-weight: 400;">.</span>
 
 &nbsp;
+
+<b>Modern Love</b><span style="font-weight: 400;"> with Meghna Chakrabarti</span>
+
+"This Podcast is produced by WBUR and based on The New York Times’ popular series of weekly reader-submitted essays. Exploring the joys and tribulations of love, Modern Love: The Podcast adds new dimension to the popular <a href="http://www.nytimes.com/column/modern-love">New York Times column</a>, with readings by notable personalities and updates from the essayists themselves." Visit <a href="https://www.wbur.org/modernlove" target="_blank" rel="noopener noreferrer">https://www.wbur.org/modernlove</a> to listen.
+
+&nbsp;
+
+<b>Love Out Loud</b><span style="font-weight: 400;"> with Bree Zimmerman </span>
+
+"A podcast about relationships through the lens of polyamory. What can everyone learn from the ideals of a style of ethical non-monogamy? Bree Zimmerman explores concepts stemming from her holistic, clinical training in psychology and her personal experiences from inside the complex world of polyamory." Visit them at <a href="https://www.stitcher.com/podcast/bree-zimmerman/love-out-loud" target="_blank" rel="noopener noreferrer">https://www.stitcher.com/podcast/bree-zimmerman/love-out-loud</a>
