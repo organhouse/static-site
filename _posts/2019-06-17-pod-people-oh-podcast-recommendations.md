@@ -74,7 +74,7 @@ post_date: 2019-06-17 20:11:02
 
 <b>Modern Love</b><span style="font-weight: 400;"> with Meghna Chakrabarti</span>
 
-"This Podcast is produced by WBUR and based on The New York Times’ popular series of weekly reader-submitted essays. Exploring the joys and tribulations of love, Modern Love: The Podcast adds new dimension to the popular <a href="http://www.nytimes.com/column/modern-love">New York Times column</a>, with readings by notable personalities and updates from the essayists themselves." Visit <a href="https://www.wbur.org/modernlove" target="_blank" rel="noopener noreferrer">https://www.wbur.org/modernlove</a> to listen.
+"This Podcast is produced by WBUR and based on The New York Times’ popular series of weekly reader-submitted essays. Exploring the joys and tribulations of love, Modern Love: The Podcast adds new dimension to the popular <a href="http://www.nytimes.com/column/modern-love">New York Times column</a>, with readings by notable personalities and updates from the essayists themselves." Visit them at <a href="https://www.wbur.org/modernlove" target="_blank" rel="noopener noreferrer">https://www.wbur.org/modernlove</a>.
 
 &nbsp;
 
