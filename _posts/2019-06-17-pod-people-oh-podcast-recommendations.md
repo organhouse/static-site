@@ -42,7 +42,7 @@ post_date: 2019-06-17 20:11:02
 
 &nbsp;
 
-<b>Shameless Sex</b><span style="font-weight: 400;"> with Amy Baldwin and April lampert</span>
+<b>Shameless Sex</b><span style="font-weight: 400;"> with Amy Baldwin and April Lampert</span>
 
 <span style="font-weight: 400;">“Together, Amy and April combined forces to create the Shameless Sex Podcast, inspiring radical self-love, sexual empowerment, and shame-free intimacy. Shameless Sex is unabashed real talk about sexuality with a playful twist. From Pussy Praising to How to Be A Badass in the Bedroom, Amy and April are not afraid to tell it like it is.” Visit them at </span><a href="https://www.shamelesssex.com/"><span style="font-weight: 400;">https://www.shamelesssex.com/</span></a><span style="font-weight: 400;">.</span>
 
