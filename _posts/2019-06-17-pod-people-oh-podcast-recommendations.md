@@ -13,10 +13,6 @@ All our favorite non-monogamy and sex podcasts in one place!
 
 &nbsp;
 
-<!--more-->
-
-&nbsp;
-
 <b>Polyamory Weekly</b><span style="font-weight: 400;"> with Cunning Minx and LustyGuy</span>
 
 <span style="font-weight: 400;">“</span><span style="font-weight: 400;">Tales from the front of responsible non-monogamy from a pansexual, kink-friendly point of view. For the full PW blog, visit </span><a href="http://www.polyweekly.com"><span style="font-weight: 400;">www.polyweekly.com</span></a><span style="font-weight: 400;">”</span>
