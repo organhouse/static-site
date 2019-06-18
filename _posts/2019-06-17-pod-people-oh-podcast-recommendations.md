@@ -80,4 +80,4 @@ post_date: 2019-06-17 20:11:02
 
 <b>Love Out Loud</b><span style="font-weight: 400;"> with Bree Zimmerman </span>
 
-"A podcast about relationships through the lens of polyamory. What can everyone learn from the ideals of a style of ethical non-monogamy? Bree Zimmerman explores concepts stemming from her holistic, clinical training in psychology and her personal experiences from inside the complex world of polyamory." Visit them at <a href="https://www.stitcher.com/podcast/bree-zimmerman/love-out-loud" target="_blank" rel="noopener noreferrer">https://www.stitcher.com/podcast/bree-zimmerman/love-out-loud</a>
+"A podcast about relationships through the lens of polyamory. What can everyone learn from the ideals of a style of ethical non-monogamy? Bree Zimmerman explores concepts stemming from her holistic, clinical training in psychology and her personal experiences from inside the complex world of polyamory." Visit them at <a href="https://www.stitcher.com/podcast/bree-zimmerman/love-out-loud" target="_blank" rel="noopener noreferrer">https://www.stitcher.com/podcast/bree-zimmerman/love-out-loud .</a>
