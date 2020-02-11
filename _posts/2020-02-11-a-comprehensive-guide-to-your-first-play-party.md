@@ -13,7 +13,9 @@ post_date: 2020-02-11 08:57:32
 ---
 <span style="font-weight: 400;">As we at Organ House gear up to start publishing more frequently, I wanted to update and expand on our awesome </span><a href="https://organhouse.org/play-parties/primer/"><span style="font-weight: 400;">So, you’re going to a sex party: a primer for noobs</span></a><span style="font-weight: 400;">. I’ve been an OH!member for a few years now, and have attended other play events as well. I’m also a writer. My day job is Head of Content at Clockwise, an SF tech startup. At night I write a blog called </span><a href="http://cathyreisenwitz.com/blog"><span style="font-weight: 400;">Sex and the State</span></a><span style="font-weight: 400;">. I’ve been poly on and off for about eight years, and have lived in SF for three. I grew up Southern Baptist in Alabama, so it’s been a journey to get here. </span>
 
-<span style="font-weight: 400;">This post is geared toward someone who’s considering attending their first play party. Keep in mind a lot of this is my opinion and based on my own experience, and your mileage may vary. Here’s what I’ve learned along the way that might help you. </span>
+<img class="wp-image-1493 alignleft" src="https://organhouse.org/wp-content/uploads/2020/02/jackiegldn-studio-zySlu1qF2vQ-unsplash-300x225.jpg" alt="" width="279" height="210" />
+
+<span style="font-weight: 400;">This post is geared toward someone who’s considering attending their first play party. Keep in mind a lot of this is my opinion and based on my own experience, and your mile</span><span style="font-weight: 400;">age may vary. Here’s what I’ve learned along the way that might help you. </span>
 
 <span style="font-weight: 400;">First of all, calm down. This isn’t anything crazy, I promise. It’s basically a house party, but the guests are sex-positive and if you want to fuck one of them you don’t have to leave the party.</span>
 
