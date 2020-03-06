@@ -90,7 +90,7 @@ post_date: 2017-03-06 15:12:07
 							</td>
 						</tr>
 <tr>
-						<td><span>Pronouns<span style='color:#ec008a;'>*</span></span><input type='text' maxlength='255' style='width:100%;'  max-width: 700px;' name='LEADCF23;' required=""></input>
+						<td><span>Pronouns<span style='color:#ec008a;'>*</span></span><input type='text' maxlength='255' style='width:100%;'  max-width: 700px;' name='LEADCF23' required=""></input>
 						</td>
 						<td style='width: 140px;'></td>
 					</tr>
