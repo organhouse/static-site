@@ -1,7 +1,7 @@
 ---
 ID: 2
 post_title: Home
-author: user
+author: Kate
 post_excerpt: ""
 layout: page
 permalink: https://organhouse.org/
