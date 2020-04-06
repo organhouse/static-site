@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2020-04-06 12:23:45
 ---
-&nbsp;
-
 <img class="alignnone wp-image-1502 size-full" src="https://organhouse.org/wp-content/uploads/2020/04/chris-barbalis-FZ65n5sAsaY-unsplash-scaled.jpg" alt="Person of color with a thick rainbow afro in graffiti next to the text &quot;love is color&quot;" width="2560" height="1742" />
 
 [avatar user="Cathy - Guest" size="thumbnail" align="left"]by Cathy Reisenwitz[/avatar]
