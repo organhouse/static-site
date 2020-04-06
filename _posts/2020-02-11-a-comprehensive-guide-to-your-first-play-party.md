@@ -11,6 +11,8 @@ permalink: >
 published: true
 post_date: 2020-02-11 08:57:32
 ---
+[avatar user="Cathy - Guest" align="right"]by Cathy Reisenwitz[/avatar]
+
 <span style="font-weight: 400;">As we at Organ House gear up to start publishing more frequently, I wanted to update and expand on our awesome </span><a href="https://organhouse.org/play-parties/primer/"><span style="font-weight: 400;">So, you’re going to a sex party: a primer for noobs</span></a><span style="font-weight: 400;">. I’ve been an OH!member for a few years now, and have attended other play events as well. I’m also a writer. My day job is Head of Content at Clockwise, an SF tech startup. At night I write a blog called </span><a href="http://cathyreisenwitz.com/blog"><span style="font-weight: 400;">Sex and the State</span></a><span style="font-weight: 400;">. I’ve been poly on and off for about eight years, and have lived in SF for three. I grew up Southern Baptist in Alabama, so it’s been a journey to get here. </span>
 
 <img class="wp-image-1493 alignleft" src="https://organhouse.org/wp-content/uploads/2020/02/jackiegldn-studio-zySlu1qF2vQ-unsplash-300x225.jpg" alt="" width="279" height="210" />
