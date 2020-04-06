@@ -5,7 +5,7 @@ author: Ivy
 post_excerpt: ""
 layout: post
 permalink: >
-  https://organhouse.org/identity/polyamorous-people-of-color-an-unvarnished-look-call-to-action/
+  https://organhouse.org/identity/polyamorous-people-of-color/
 published: true
 post_date: 2020-04-06 12:23:45
 ---
