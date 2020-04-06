@@ -104,8 +104,7 @@ post_date: 2020-04-06 12:23:45
 <span style="font-weight: 400;">Diversity helps us become aware of our own stereotypes. “I have had experiences where I encounter folks who make assumptions about me based on my race, what I’m wearing and how I speak,” Steve said. “They often realize I don’t fit the stereotype pretty quickly.”</span>
 
 <span style="font-weight: 400;">“The cultural differences and lifestyle when compared to those of the majority is a massive contributor to what I bring into play-spaces,” Terry* said. “I have made tons of new friends since being a part of the play-community. They have helped me explore pleasures I would not have known to be pleasurable.  Also, they have a mutual goal to bring sex-positivity to the POC community.” </span>
-
-<span style="font-weight: 400;">“If I were to give advice to a POC entering the poly world, it would be this: Reach out and connect with the other people of color in that community,” Steve said. “Non-POC can empathize and listen, but they won’t understand from your experience.” </span>
+<h3><span style="font-weight: 400;">“If I were to give advice to a POC entering the poly world, it would be this: Reach out and connect with the other people of color in that community,” Steve said. “Non-POC can empathize and listen, but they won’t understand from your experience.” </span></h3>
 <h2><span style="font-weight: 400;">Going forward</span></h2>
 <span style="font-weight: 400;">OH’s leadership takes the time to discuss diversity and inclusivity in every weekly meeting to continuously create opportunities and a space for its members to push their boundaries, learn and grow from what its majority white community has historically called “uncomfortable conversations.” </span>
 
