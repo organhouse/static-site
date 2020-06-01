@@ -115,3 +115,5 @@ post_date: 2020-04-06 12:23:45
 &nbsp;
 
 <span style="font-weight: 400;">* Most people who spoke to us chose to remain anonymous. I’ve assigned them fake names, indicated by an * and they/them pronouns. </span>
+
+This article was coordinated, co-authored, edited, and published by OH's Diversity &amp; Inclusivity lead, Ivy Summer.
