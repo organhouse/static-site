@@ -1,7 +1,7 @@
 ---
 ID: 5
 post_title: Consent Culture
-author: user
+author: Kate
 post_excerpt: ""
 layout: page
 permalink: https://organhouse.org/consent-culture/
